@@ -1,0 +1,56 @@
+body{
+    background-color: aliceblue;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px;
+    margin: 0;
+}
+#buy-bl{
+   
+    color: rgb(186, 17, 107);
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+#input-el{
+    background-color: antiquewhite;
+    padding: 10px;
+    box-sizing: border-box;
+    border: 1px solid green;
+    margin-bottom: 5px;
+    width: 100%;
+}
+#input-btn{
+    background-color: rgb(76, 205, 162);
+    color: rgb(246, 243, 243);
+    padding: 10px 20px;
+    font-weight: bold;
+    
+}
+#del-btn{
+    color: rgb(76, 205, 162);
+    background-color: rgb(246, 243, 243);
+    padding: 10px 20px;
+    font-weight: bold;
+    
+}
+#tab-btn{
+    background-color: rgb(76, 205, 162);
+    color: rgb(246, 243, 243);
+    padding: 10px 20px;
+    font-weight: bold;
+    
+}
+ul{
+    color: rgb(20, 88, 20);
+    list-style-type: none;
+    margin-top: 20px;
+    padding: 0;
+}
+li{
+    color: rgb(23, 127, 23);
+    list-style-type: none;
+    margin-top: 5px;
+    padding: 0;
+}
+a{
+    color: rgb(17, 227, 157);
+}
